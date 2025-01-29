@@ -1,0 +1,1 @@
+web: gunicorn farm_tech_backend.wsgi:application
